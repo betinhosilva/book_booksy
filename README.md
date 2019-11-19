@@ -1,3 +1,3 @@
-# Book App - Booksy - 4U Books
+# Book App - 4U Books
 
 Projeto em Flutter
